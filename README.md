@@ -1,3 +1,4 @@
+NEW ACCOUNT!
 - pseudonym: NIBBLEGG
 - role: Data Scientist and Automation, almost always python
 - learning: Currently learning C++
